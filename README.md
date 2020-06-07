@@ -5,7 +5,7 @@
 * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
 * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
 * [Marketing Analytics with Python]()
-  * []()
+  * [Marketing Analytics: Predicting Customer Churn in Python]()
   * [Customer Analytics and A/B Testing in Python]()
   * []()
   * []()
