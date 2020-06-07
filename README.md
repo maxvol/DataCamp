@@ -7,5 +7,5 @@
 * [Marketing Analytics with Python]()
   * [Marketing Analytics: Predicting Customer Churn in Python]()
   * [Customer Analytics and A/B Testing in Python]()
-  * []()
-  * []()
+  * [Customer Segmentation in Python]()
+  * [Machine Learning for Marketing in Python]()
