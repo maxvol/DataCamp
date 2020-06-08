@@ -6,6 +6,6 @@
 * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
 * [Marketing Analytics with Python]()
   * [Marketing Analytics: Predicting Customer Churn in Python]()
-  * [Customer Analytics and A/B Testing in Python]()
+  * [Customer Analytics and A/B Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/29c7a3e419748c264f5b3c5a35b676b795aec6d4)
   * [Customer Segmentation in Python]()
   * [Machine Learning for Marketing in Python]()
