@@ -7,5 +7,5 @@
 * [Marketing Analytics with Python]()
   * [Marketing Analytics: Predicting Customer Churn in Python]()
   * [Customer Analytics and A/B Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/29c7a3e419748c264f5b3c5a35b676b795aec6d4)
-  * [Customer Segmentation in Python]()
+  * [Customer Segmentation in Python](https://www.datacamp.com/statement-of-accomplishment/course/96cc13a2329ae6d1af60e3ef3449c02a012f0e4c)
   * [Machine Learning for Marketing in Python]()
