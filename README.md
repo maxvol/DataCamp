@@ -1,11 +1,15 @@
 # DataCamp
 
+* Analyzing Marketing Campaigns with pandas
+
 * [Marketing Analytics with Python](https://www.datacamp.com/statement-of-accomplishment/track/e4237897b7eaa95b81f517c4e823ffcd9fd5da20)
   * [Marketing Analytics: Predicting Customer Churn in Python](https://www.datacamp.com/statement-of-accomplishment/course/b139c5e37cb90da701d4cae269f9a1b236b3a251)
   * [Customer Analytics and A/B Testing in Python](https://www.datacamp.com/statement-of-accomplishment/course/29c7a3e419748c264f5b3c5a35b676b795aec6d4)
   * [Customer Segmentation in Python](https://www.datacamp.com/statement-of-accomplishment/course/96cc13a2329ae6d1af60e3ef3449c02a012f0e4c)
   * [Machine Learning for Marketing in Python](https://www.datacamp.com/statement-of-accomplishment/course/6b3ca04ef97f927bdd7f14af84ed31cd9db70239)
- 
+
+* Marketing Analytics with R
+
 * Data Visualization with Python 
   * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
   * [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/b0a4c32246b8ed8746a09de1a761723a2911feb9)
