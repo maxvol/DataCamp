@@ -35,5 +35,4 @@
 * Career Tracks
   * Machine Learning Scientist with Python
     * Cluster Analysis in Python  
-  * Machine Learning for Everyone
-    * Cluster Analysis in Python
+
