@@ -31,3 +31,8 @@
 * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
 
 
+* Career Tracks
+  * Machine Learning Scientist with Python
+    * Cluster Analysis in Python  
+  * Machine Learning for Everyone
+    * Cluster Analysis in Python
