@@ -14,6 +14,8 @@
     * [Machine Learning for Marketing in Python](https://www.datacamp.com/statement-of-accomplishment/course/6b3ca04ef97f927bdd7f14af84ed31cd9db70239)
 
   * Marketing Analytics with R
+    * Choice Modeling for Marketing in R
+    * Building Response Models in R
 
   * Data Visualization with Python 
     * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
