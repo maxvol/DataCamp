@@ -15,7 +15,7 @@
   * [Interactive Data Visualization with Bokeh](https://www.datacamp.com/statement-of-accomplishment/course/b0a4c32246b8ed8746a09de1a761723a2911feb9)
 
 * Machine Learning Fundamentals with Python
-  * Unsupervised Learning in Python
+  * [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
   
 * Deep Learning in Python  
   * Introduction to TensorFlow in Python
