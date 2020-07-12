@@ -31,6 +31,10 @@
 
   * Data Manipulation with Python
     * Merging DataFrames with pandas
+    
+  * Probability and Distributions with R
+    * Mixture Models in R
+  
 
 * Career Tracks
   * Machine Learning Scientist with Python
