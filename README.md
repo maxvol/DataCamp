@@ -27,7 +27,7 @@
     * [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
 
   * Deep Learning in Python  
-    * Introduction to TensorFlow in Python
+    * [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3f9779dd240b10101b2577d3ae7f0d208faf9a8c)
     * [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/dbd12d2a5f8419b55ee7f15f6eaf6a630adc06c9)
 
   * Deep Learning for NLP in Python
