@@ -38,6 +38,9 @@
     
   * Probability and Distributions with R
     * Mixture Models in R
+    
+  * Big Data with PySpark
+    * Building Recommendation Engines with PySpark
   
 
 * *Career Tracks*
