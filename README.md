@@ -40,7 +40,7 @@
     * Mixture Models in R
     
   * Big Data with PySpark
-    * Building Recommendation Engines with PySpark
+    * [Building Recommendation Engines with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/83a6591db48ea44602bb7d08502fad1c67ebca12)
   
 
 * *Career Tracks*
