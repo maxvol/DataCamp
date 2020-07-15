@@ -4,7 +4,7 @@
   * [Introduction to Airflow in Python](https://www.datacamp.com/statement-of-accomplishment/course/c669f0cd95ad3931024d102a5a94036980e1d8b9)
   * [Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3c5b9f2a31cd34db107edf6d0468c614d8295939)
   * Predicting CTR with Machine Learning in Python
-  * Market Basket Analysis in Python
+  * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
   * [Factor Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/5a7c333de0b19a357524dcd3e9846184b2da8ff1)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
 
