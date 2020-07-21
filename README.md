@@ -5,7 +5,6 @@
   * [Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3c5b9f2a31cd34db107edf6d0468c614d8295939)
   * [Predicting CTR with Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/e51f8f104ecebfdc593a4c3765d1b2c62d24195b)
   * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
-  * [Factor Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/5a7c333de0b19a357524dcd3e9846184b2da8ff1)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
 
 * *Skill Tracks*
@@ -30,6 +29,9 @@
     * [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3f9779dd240b10101b2577d3ae7f0d208faf9a8c)
     * [Introduction to Deep Learning with PyTorch](https://www.datacamp.com/statement-of-accomplishment/course/dbd12d2a5f8419b55ee7f15f6eaf6a630adc06c9)
 
+  * Unsupervised Machine Learning with R
+    * [Factor Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/5a7c333de0b19a357524dcd3e9846184b2da8ff1)
+
   * Deep Learning for NLP in Python
     * Recurrent Neural Networks for Language Modeling in Python
 
@@ -41,7 +43,6 @@
     
   * Big Data with PySpark
     * [Building Recommendation Engines with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/83a6591db48ea44602bb7d08502fad1c67ebca12)
-  
 
 * *Career Tracks*
   * Machine Learning Scientist with Python
