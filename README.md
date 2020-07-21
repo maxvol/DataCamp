@@ -31,6 +31,7 @@
 
   * Unsupervised Machine Learning with R
     * [Factor Analysis in R](https://www.datacamp.com/statement-of-accomplishment/course/5a7c333de0b19a357524dcd3e9846184b2da8ff1)
+    * Advanced Dimensionality Reduction in R
 
   * Deep Learning for NLP in Python
     * Recurrent Neural Networks for Language Modeling in Python
