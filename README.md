@@ -47,5 +47,5 @@
 
 * *Career Tracks*
   * Machine Learning Scientist with Python
-    * Cluster Analysis in Python  
+    * [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/43782b5bd0b5a36f80bc5096141ca383b187c0b2) 
 
