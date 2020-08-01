@@ -17,6 +17,7 @@
   * Marketing Analytics with R
     * Choice Modeling for Marketing in R
     * Building Response Models in R
+    * Introduction to Text Analysis in R
 
   * Data Visualization with Python 
     * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
@@ -41,11 +42,15 @@
     
   * Probability and Distributions with R
     * Mixture Models in R
+    * Probability Puzzles in R
     
   * Big Data with PySpark
     * [Building Recommendation Engines with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/83a6591db48ea44602bb7d08502fad1c67ebca12)
 
 * *Career Tracks*
   * Machine Learning Scientist with Python
-    * [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/43782b5bd0b5a36f80bc5096141ca383b187c0b2) 
+    * [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/43782b5bd0b5a36f80bc5096141ca383b187c0b2)
+  * Statistician with R
+    * Experimental Design in R
+    * A/B Testing in R
 
