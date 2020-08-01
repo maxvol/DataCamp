@@ -36,6 +36,9 @@
 
   * Deep Learning for NLP in Python
     * [Recurrent Neural Networks for Language Modeling in Python](https://www.datacamp.com/statement-of-accomplishment/course/af29cc6201c32352ea91f9a3f8390f85202c2882)
+    
+  * Natural Language Processing in Python
+    * Introduction to Natural Language Processing in Python
 
   * Data Manipulation with Python
     * Merging DataFrames with pandas
