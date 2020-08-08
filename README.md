@@ -45,7 +45,7 @@
     
   * Probability and Distributions with R
     * Mixture Models in R
-    * Probability Puzzles in R
+    * [Probability Puzzles in R](https://www.datacamp.com/statement-of-accomplishment/course/cb3768b6336ae0c57c3fda71be894127a00631a6)
     
   * Big Data with PySpark
     * [Building Recommendation Engines with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/83a6591db48ea44602bb7d08502fad1c67ebca12)
