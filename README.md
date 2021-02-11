@@ -5,6 +5,7 @@
   * [Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3c5b9f2a31cd34db107edf6d0468c614d8295939)
   * [Predicting CTR with Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/e51f8f104ecebfdc593a4c3765d1b2c62d24195b)
   * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
+  * [Building Recommendation Engines in Python](https://www.datacamp.com/statement-of-accomplishment/course/2dbe8952edbbf2c6a0269ace339c6d0ec5d30bdb)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
 
 * *Skill Tracks*
