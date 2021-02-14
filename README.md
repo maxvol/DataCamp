@@ -19,6 +19,9 @@
     * [Choice Modeling for Marketing in R](https://www.datacamp.com/statement-of-accomplishment/course/01850e954b7c582c50076a534e24ec79c6936a28)
     * Building Response Models in R
     * Introduction to Text Analysis in R
+    
+  * Time Series with Python
+    * Visualizing Time Series Data in Python
 
   * Data Visualization with Python 
     * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
