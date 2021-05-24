@@ -7,6 +7,7 @@
   * [Predicting CTR with Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/e51f8f104ecebfdc593a4c3765d1b2c62d24195b)
   * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
   * [Building Recommendation Engines in Python](https://www.datacamp.com/statement-of-accomplishment/course/2dbe8952edbbf2c6a0269ace339c6d0ec5d30bdb)
+  * [Survival Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/28355841d003eab3422b48f0029e571b5b108a43)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
   * [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94923919a61de57ce8a1cfce5bb8e411fa60ac49)
 
