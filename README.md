@@ -7,6 +7,8 @@
   * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
   * [Building Recommendation Engines in Python](https://www.datacamp.com/statement-of-accomplishment/course/2dbe8952edbbf2c6a0269ace339c6d0ec5d30bdb)
   * [Survival Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/28355841d003eab3422b48f0029e571b5b108a43)
+  * [Introduction to Network Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/150b241e8a42841651d416adeb0e28783f32d277)
+  * [Intermediate Network Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/be0e08e1cff45979226890c0f0225fc612725ad2)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
   * [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94923919a61de57ce8a1cfce5bb8e411fa60ac49)
 
