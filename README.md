@@ -11,6 +11,7 @@
   * [Intermediate Network Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/be0e08e1cff45979226890c0f0225fc612725ad2)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
   * [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94923919a61de57ce8a1cfce5bb8e411fa60ac49)
+  * [Introduction to Julia](https://www.datacamp.com/statement-of-accomplishment/course/604bbfa3e753a729c972c9b1570e75e1a16e6674)
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
 
 * *Skill Tracks*
