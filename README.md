@@ -63,6 +63,9 @@
   * Big Data with PySpark
     * [Building Recommendation Engines with PySpark](https://www.datacamp.com/statement-of-accomplishment/course/83a6591db48ea44602bb7d08502fad1c67ebca12)
 
+  * MLOps Fundamentals
+    *  [MLOps Concepts](https://www.datacamp.com/statement-of-accomplishment/course/0c85f25e919fa84a97a52e0dde70bc33f35b65c7)
+
 * *Career Tracks*
   * Data Engineer with Python
     * [Introduction to Airflow in Python](https://www.datacamp.com/statement-of-accomplishment/course/c669f0cd95ad3931024d102a5a94036980e1d8b9)
