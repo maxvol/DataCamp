@@ -67,7 +67,7 @@
     *  [MLOps Concepts](https://www.datacamp.com/statement-of-accomplishment/course/0c85f25e919fa84a97a52e0dde70bc33f35b65c7)
     *  [Developing Machine Learning Models for Production](https://www.datacamp.com/statement-of-accomplishment/course/209cc527c1722d6e460a05acba7132254477dab2)
     *  [MLOps Deployment and Life Cycling](https://www.datacamp.com/statement-of-accomplishment/course/3a5a6f8efb5f248d76fc6e076e16446b0ae9545e)
-    *  [Fully Automated MLOps](https://www.datacamp.com/statement-of-accomplishment/track/465c9ad8e74b8bf7b451ea38ba525dda3e2a8500)
+    *  [Fully Automated MLOps](https://www.datacamp.com/statement-of-accomplishment/course/dbda12d05166780705ec877679d64703a053826d)
 
 * *Career Tracks*
   * Data Engineer with Python
