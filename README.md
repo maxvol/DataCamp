@@ -66,8 +66,8 @@
   * MLOps Fundamentals
     *  [MLOps Concepts](https://www.datacamp.com/statement-of-accomplishment/course/0c85f25e919fa84a97a52e0dde70bc33f35b65c7)
     *  [Developing Machine Learning Models for Production](https://www.datacamp.com/statement-of-accomplishment/course/209cc527c1722d6e460a05acba7132254477dab2)
-    *  []()
-    *  []()
+    *  [MLOps in a Nutshell]()
+    *  [Fully Automated MLOps]()
 
 * *Career Tracks*
   * Data Engineer with Python
