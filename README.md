@@ -14,6 +14,7 @@
   * [Introduction to Julia](https://www.datacamp.com/statement-of-accomplishment/course/604bbfa3e753a729c972c9b1570e75e1a16e6674)
   * [Intermediate Julia](https://www.datacamp.com/statement-of-accomplishment/course/d43886280f4957d2d5c22d2be9d697a51eec89bc)
   * [Data Manipulation in Julia](https://www.datacamp.com/statement-of-accomplishment/course/5c642f4e6e3184ece862ab4ca58413b9b742f973)
+  * [Introduction to Data Visualization with Julia](https://www.datacamp.com/statement-of-accomplishment/course/54de255140d02c5bc4bf8504ac8d8d7170f4da0d)
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
 
 * *Skill Tracks*
