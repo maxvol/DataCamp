@@ -19,6 +19,7 @@
   * [Understanding Modern Data Architecture](https://www.datacamp.com/statement-of-accomplishment/course/1be69e6acc294c64f0d4aefb412b5b12c5cbc576)
   * [Introduction to dbt](https://www.datacamp.com/statement-of-accomplishment/course/9a51f100b6d93a41bd2cae27a4a55b2891888ae8)
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
+  * [CI/CD for Machine Learning](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffff9f82833f28d3bc81f37efeb5d08b5a9e7901)
 
 * *Skill Tracks*
 
