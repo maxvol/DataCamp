@@ -77,6 +77,9 @@
     * [Data Manipulation in Julia](https://www.datacamp.com/statement-of-accomplishment/course/5c642f4e6e3184ece862ab4ca58413b9b742f973)
     * [Introduction to Data Visualization with Julia](https://www.datacamp.com/statement-of-accomplishment/course/54de255140d02c5bc4bf8504ac8d8d7170f4da0d)
 
+  * AI Business Fundamentals
+    * [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca273f5268957a491f35a0b9cafa22bacf9e1670)
+
 * *Career Tracks*
   * Data Engineer with Python
     * [Introduction to Airflow in Python](https://www.datacamp.com/statement-of-accomplishment/course/c669f0cd95ad3931024d102a5a94036980e1d8b9)
