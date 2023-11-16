@@ -10,7 +10,6 @@
   * [Intermediate Network Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/be0e08e1cff45979226890c0f0225fc612725ad2)
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
   * [Discrete Event Simulation in Python](https://www.datacamp.com/statement-of-accomplishment/course/c33f656a2fb141e427843de8bc7fec430145cc69)
-  * [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94923919a61de57ce8a1cfce5bb8e411fa60ac49)
   * [Introduction to Data Warehousing](https://www.datacamp.com/statement-of-accomplishment/course/c389f5de361faf6902f124aca3089948ca5e0de8)
   * [Understanding Modern Data Architecture](https://www.datacamp.com/statement-of-accomplishment/course/1be69e6acc294c64f0d4aefb412b5b12c5cbc576)
   * [Introduction to dbt](https://www.datacamp.com/statement-of-accomplishment/course/9a51f100b6d93a41bd2cae27a4a55b2891888ae8)
@@ -57,6 +56,7 @@
 
   * Data Manipulation with Python
     * Merging DataFrames with pandas
+    * [Reshaping Data with pandas](https://www.datacamp.com/statement-of-accomplishment/course/94923919a61de57ce8a1cfce5bb8e411fa60ac49)
     
   * Probability and Distributions with R
     * Mixture Models in R
