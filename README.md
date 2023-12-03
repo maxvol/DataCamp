@@ -14,9 +14,9 @@
   * [Understanding Modern Data Architecture](https://www.datacamp.com/statement-of-accomplishment/course/1be69e6acc294c64f0d4aefb412b5b12c5cbc576)
   * [Introduction to dbt](https://www.datacamp.com/statement-of-accomplishment/course/9a51f100b6d93a41bd2cae27a4a55b2891888ae8)
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
-  * [CI/CD for Machine Learning](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffff9f82833f28d3bc81f37efeb5d08b5a9e7901)
-  * [Introduction to Azure](https://www.datacamp.com/completed/statement-of-accomplishment/course/9f1c8d747c1e13a640c22f7471a1ebcde8f3394b)
-  * [Introduction to AWS](https://www.datacamp.com/completed/statement-of-accomplishment/course/732c290b4f453dd3552dba98c25ce5886c39baea)
+  * [CI/CD for Machine Learning](https://www.datacamp.com/statement-of-accomplishment/course/ffff9f82833f28d3bc81f37efeb5d08b5a9e7901)
+  * [Introduction to Azure](https://www.datacamp.com/statement-of-accomplishment/course/9f1c8d747c1e13a640c22f7471a1ebcde8f3394b)
+  * [Introduction to AWS](https://www.datacamp.com/statement-of-accomplishment/course/732c290b4f453dd3552dba98c25ce5886c39baea)
 
 * *Skill Tracks*
 
@@ -72,23 +72,23 @@
     *  [MLOps Deployment and Life Cycling](https://www.datacamp.com/statement-of-accomplishment/course/3a5a6f8efb5f248d76fc6e076e16446b0ae9545e)
     *  [Fully Automated MLOps](https://www.datacamp.com/statement-of-accomplishment/course/dbda12d05166780705ec877679d64703a053826d)
  
-  * [Julia Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/cf88bd2cfae6a6596823d1e931106578afc85fcb)
+  * [Julia Fundamentals](https://www.datacamp.com/statement-of-accomplishment/track/cf88bd2cfae6a6596823d1e931106578afc85fcb)
     * [Introduction to Julia](https://www.datacamp.com/statement-of-accomplishment/course/604bbfa3e753a729c972c9b1570e75e1a16e6674)
     * [Intermediate Julia](https://www.datacamp.com/statement-of-accomplishment/course/d43886280f4957d2d5c22d2be9d697a51eec89bc)
     * [Data Manipulation in Julia](https://www.datacamp.com/statement-of-accomplishment/course/5c642f4e6e3184ece862ab4ca58413b9b742f973)
     * [Introduction to Data Visualization with Julia](https://www.datacamp.com/statement-of-accomplishment/course/54de255140d02c5bc4bf8504ac8d8d7170f4da0d)
 
   * AI Business Fundamentals
-    * [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/ca273f5268957a491f35a0b9cafa22bacf9e1670)
+    * [Introduction to ChatGPT](https://www.datacamp.com/statement-of-accomplishment/course/ca273f5268957a491f35a0b9cafa22bacf9e1670)
 
 * *Career Tracks*
   * Data Engineer with Python
     * [Introduction to Airflow in Python](https://www.datacamp.com/statement-of-accomplishment/course/c669f0cd95ad3931024d102a5a94036980e1d8b9)
   * Data Scientist Professional with Python
     * [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/df274a6e31bd48163894a7ed27927c57ed838792)
-    * [Unsupervised Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
+    * [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
   * Machine Learning Scientist with Python
-    * [Unsupervised Learning in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
+    * [Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/32af9db2e5457b027046073a0d44b0cc6061f8a1)
     * [Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/43782b5bd0b5a36f80bc5096141ca383b187c0b2)
     * [Introduction to TensorFlow in Python](https://www.datacamp.com/statement-of-accomplishment/course/3f9779dd240b10101b2577d3ae7f0d208faf9a8c)
   * Statistician with R
