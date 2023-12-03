@@ -16,6 +16,7 @@
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
   * [CI/CD for Machine Learning](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffff9f82833f28d3bc81f37efeb5d08b5a9e7901)
   * [Introduction to Azure](https://www.datacamp.com/completed/statement-of-accomplishment/course/9f1c8d747c1e13a640c22f7471a1ebcde8f3394b)
+  * [Introduction to AWS](https://www.datacamp.com/completed/statement-of-accomplishment/course/732c290b4f453dd3552dba98c25ce5886c39baea)
 
 * *Skill Tracks*
 
