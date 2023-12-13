@@ -95,3 +95,5 @@
     * Experimental Design in R
     * A/B Testing in R
 
+---
+[Roadmap](https://trello.com/b/BLplifUB/datacamp-course-roadmap)
