@@ -11,6 +11,7 @@
   * [Structural Equation Modeling with lavaan in R](https://www.datacamp.com/statement-of-accomplishment/course/d280773a8d40045cee012ac43a64fc780fef5241)
   * [Discrete Event Simulation in Python](https://www.datacamp.com/statement-of-accomplishment/course/c33f656a2fb141e427843de8bc7fec430145cc69)
   * [Introduction to Data Warehousing](https://www.datacamp.com/statement-of-accomplishment/course/c389f5de361faf6902f124aca3089948ca5e0de8)
+  * [Data Management Concepts](https://www.datacamp.com/statement-of-accomplishment/course/ab72c05ed2783766a432c6472d29d90df4772de8)
   * [Understanding Modern Data Architecture](https://www.datacamp.com/statement-of-accomplishment/course/1be69e6acc294c64f0d4aefb412b5b12c5cbc576)
   * [Introduction to dbt](https://www.datacamp.com/statement-of-accomplishment/course/9a51f100b6d93a41bd2cae27a4a55b2891888ae8)
   * [Introduction to Docker](https://www.datacamp.com/statement-of-accomplishment/course/5fa3e915ff66a7be24b15a3bd76d91dcbb86305b)
