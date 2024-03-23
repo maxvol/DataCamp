@@ -1,6 +1,7 @@
 # DataCamp
 
 * *Courses*
+  * [Reinforcement Learning with Gymnasium in Python](https://www.datacamp.com/statement-of-accomplishment/course/26464d5b5f7d3f2515d454754c1c2913f3b0837a)
   * [Analyzing Marketing Campaigns with pandas](https://www.datacamp.com/statement-of-accomplishment/course/3c5b9f2a31cd34db107edf6d0468c614d8295939)
   * [Predicting CTR with Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/e51f8f104ecebfdc593a4c3765d1b2c62d24195b)
   * [Market Basket Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/6f77178e3d7ba82230f39707e3529022d1cf9884)
