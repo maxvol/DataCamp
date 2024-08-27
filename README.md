@@ -23,6 +23,7 @@
   * [Introduction to Azure](https://www.datacamp.com/completed/statement-of-accomplishment/course/9f1c8d747c1e13a640c22f7471a1ebcde8f3394b)
   * [Introduction to AWS](https://www.datacamp.com/completed/statement-of-accomplishment/course/732c290b4f453dd3552dba98c25ce5886c39baea)
   * [Working with Llama 3](https://www.datacamp.com/completed/statement-of-accomplishment/course/f3df22b16b3387324d23f839695af1b0acbcb511)
+  * [Intermediate ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/1bc7d63cfc1cff5d8b5986fc5ddb1fa575dec3cf)
 
 * *Skill Tracks*
 
