@@ -25,6 +25,7 @@
   * [Working with Llama 3](https://www.datacamp.com/completed/statement-of-accomplishment/course/f3df22b16b3387324d23f839695af1b0acbcb511)
   * [Intermediate ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/1bc7d63cfc1cff5d8b5986fc5ddb1fa575dec3cf)
   * [Decoding Decision Modeling](https://www.datacamp.com/completed/statement-of-accomplishment/course/4be80fcbf0458cc6dd44983c5f5c54ac15867107)
+  * [Explainable AI in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a02bd773f856ab26b8c10fd81c728fabba9b596e)
   
 * *Skill Tracks*
 
