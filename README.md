@@ -27,6 +27,7 @@
   * [Decoding Decision Modeling](https://www.datacamp.com/completed/statement-of-accomplishment/course/4be80fcbf0458cc6dd44983c5f5c54ac15867107)
   * [Explainable AI in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/a02bd773f856ab26b8c10fd81c728fabba9b596e)
   * [Retrieval Augmented Generation (RAG) with LangChain](https://www.datacamp.com/completed/statement-of-accomplishment/course/95cb4e7c98af3c3ef063c6f1cba04bfc4ab15023)
+  * [Designing Agentic Systems with LangChain](https://www.datacamp.com/completed/statement-of-accomplishment/course/367df1efda9c889d939a51b845f42054ca19685c)
   * [Introduction to FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/0aa16b6c9020a7ac745c2e2d45f43aabfdfdbd1f)
   
 * *Skill Tracks*
