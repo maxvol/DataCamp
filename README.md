@@ -32,6 +32,7 @@
   * [Deploying AI into Production with FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/ba4825d63d622fd72e52335fe376859a3d162dc0)
   * [Advanced Git](https://www.datacamp.com/completed/statement-of-accomplishment/course/659741b032713da9a362eae2c9b7f24b52ff3df9)
   * [Demystifying Decision Science](https://www.datacamp.com/completed/statement-of-accomplishment/course/5745d474a38c0a47834c8d09cfdbb1aacb6e156e)
+  * [Introduction to Polars](https://www.datacamp.com/completed/statement-of-accomplishment/course/1ef1fe505b74bbf2e54886a2bc6f3f2859cba120)
   
 * *Skill Tracks*
 
